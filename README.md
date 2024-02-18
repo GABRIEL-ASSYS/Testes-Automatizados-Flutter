@@ -1,55 +1,44 @@
-![Thumbnail GitHub](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_7/master/Card%20Testes.png)
+# Testes Automatizados em Flutter
 
-# Flutter: Testes de Unidade, de Widgets e Mocks
+Este é um prjeto criado durante um curso na plataforma Alura foca na escrite de testes de unidade aplicados em projetos Flutter.
 
-Esse curso de Flutter vai te ensinar a: 
+## 🚀 Começando
 
--> Verificar um código desconhecido
+Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
--> Criar mecanismos de Qualidade para seu produto
+### 📋 Pré-requisitos
 
--> Formular testes
+De que coisas você precisa para instalar o software e como instalá-lo?
 
--> Utilizar métodos de busca de Widget sofisticados
+* SDK do Flutter instalado em sua máquina [SDK Flutter](https://flutter.dev/?gad_source=1&gclid=EAIaIQobChMIpuCHuPivhAMVtURIAB2IJQNXEAAYASAAEgK3ofD_BwE&gclsrc=aw.ds). 
+* SDK do Dart instalado em sua máquina [SDK Dart](https://dart.dev/get-dart).
+* SDK do Android instalado em sua máquina, será necessário instalar a IDE Android Studio [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMI0OO33vivhAMV2lhIAB1IHwbVEAAYASAAEgLGkPD_BwE&gclsrc=aw.ds&hl=pt-br).
+* As IDEs recomendadas são o Andorid Studio e o Visual Studio Code.
+* [Tutorial de instalação e configuração](https://blog.cod3r.com.br/dart-e-flutter-instalacao-e-configuracao/)
 
--> Criar confiabilidade ao seu código.
+### 🔧 Instalação
 
+* ⚠️ Para este projeto você precisa ter o Node.js instalado em seu computador.
+* Acesse a paleta de Comandos do Visual Studio Code.
+* No prompt da paleta de comandos, insira <b>gitcl</b>, selecione o comando Git: <b>Clone</b> e pressione <b>Enter</b>.
+* Quando for solicitada a URL do Repositório, selecione Clonar do GitHub e pressione <b>Enter</b>.
+* Se for solicitado que você entre no GitHub, conclua o processo de entrada.
+* Insira https://github.com/GABRIEL-ASSYS/Testes-Automatizados-Flutter no campo URL do Repositório.
+* Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
+* Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
+* Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio e executar ``` flutter pub get ``` para instalar as bibliotecas e dependências do Flutter.
 
-## 🔨 Projeto: AluraBank
+## 🛠️ Construído com  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+* [Dart](https://dart.dev/guides) - Linguagem utilizada
+* [Flutter](https://docs.flutter.dev) - Framework
 
-O projeto do curso consiste em criar diversos testes em um projeto novo, com o intuito de instruir sobre a qualidade dos aplicativos criados pelo aluno!
+## ✒️ Autores
 
-![](https://user-images.githubusercontent.com/22684176/180311121-619bd614-b439-4177-ae2c-9b9d79368002.png)
+* Gabriel Assys <br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-assys/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel_brachak/)
+<br/>
+<img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png" width="150" height="150"/>
 
-## ✔️ Técnicas e tecnologias
-
-**Veja mais de perto o que você aprenderá sobre** :
-- `Teste de Unidade`: Teste capaz de verificar pequenos objetos.
-- `Teste de Widget`: Teste capaz de  verificar Widgets e suas dependencias, com construção de tela.
-- `test()`: método capaz de iniciar um teste.
-- `expect()`: método que compara o resultado do testes com o esperado.
-- `group()`: método que agrupa diversso testes.
-- `pump()`: método que aguarda micro processos para construção na tela.
-- `Finders`: Aqueles com a capacidade de procurar e encontrar Widgets em uma extensa árvore sendo testada..
-- `Matchers`: Aqueles com capacidade de comparar um resultado com o esperado;
-- `Ações`: Atividades que o `tester` pode usufruir para garantir a usabilidade do aplicativo. 
-- `Dublês`: Aqueles com capacidade de imitar uma dependência.
-- `mockito`: Pacote que permite a criação de dublês.
-
- 
-
-
-## 🛠️ Abrir e rodar o projeto
-
-**Para executar este projeto você precisa:**
-
-- Ter uma IDE, que pode ser o  [Android Studio](https://developer.android.com/) instalado na sua máquina
-- Ter a [SDK do Flutter](https://docs.flutter.dev/get-started/install) na versão 3.0.0
-
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
-
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
-
+---
+⌨️ com ❤️ por [Gabriel Assys](https://github.com/GABRIEL-ASSYS) 😊
