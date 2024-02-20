@@ -1,6 +1,6 @@
 # Testes Automatizados em Flutter
 
-Este é um prjeto criado durante um curso na plataforma Alura foca na escrite de testes de unidade aplicados em projetos Flutter.
+Este é um prjeto criado durante um curso na plataforma Alura foca na escrita de testes de unidade aplicados em projetos Flutter.
 
 ## 🚀 Começando
 
